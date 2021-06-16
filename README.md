@@ -1,5 +1,5 @@
 # To Do List
-✏️ A simple todo list to organize and prioritize tasks ❗
+✏️ A simple todo list developed using html, css and javascript to organize and prioritize tasks ❗
  
  # Project deployed at
 
