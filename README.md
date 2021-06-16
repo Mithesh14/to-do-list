@@ -3,7 +3,7 @@
  
  # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">To Do List</a>
+<a href="https://mithesh14.github.io/to-do-list/">To Do List</a>
 
 # Screenshots and working explained
 
